@@ -6,7 +6,7 @@ In this module, we built a table using data stored in a JavaScript array. We wil
 
 ## Results
 
-Once a client reaches the website, he will see the image below. 
+Once a client reaches the website, he will see the image below:
 
 ![](https://github.com/Mousse10/UFOs/blob/main/static/images/Capture%2012.PNG)
 
